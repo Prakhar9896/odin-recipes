@@ -1,3 +1,3 @@
 # odin-recipes
 
-hi hello
+Practice project 
